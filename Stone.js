@@ -4,7 +4,7 @@ class Stone{
 		var options={
 			isStatic:false,
 			friction:1,
-			density:1.2,
+			density:0.2,
 			restitution : 0.5
 			}
 		this.x = x;
